@@ -4,6 +4,8 @@ const heightValue = prompt('Enter the height of a triangle: ');
 // calculate the area
 const areaValue = (baseValue * heightValue) / 2;
 
+//Calculate the area 2
+
 console.log(
   `The area of the triangle is ${areaValue}`
 );
